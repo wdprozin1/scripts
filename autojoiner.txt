@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/karlosedson/mkzhub/raw/refs/heads/main/makerzjoiner.lua"))()
